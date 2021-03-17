@@ -37,7 +37,7 @@ function buildPlot(sampleId) {
             title: "Top 10 OTU's",
             xaxis: {title: "OTU Sample Value"},
             yaxis: {title: "OTU ID"},
-            margin: {t:30, l:150}
+            margin: {t:30, l:100}
         };
 
         Plotly.newPlot("bar", bar_chart, bar_layout);
@@ -69,11 +69,12 @@ function buildPlot(sampleId) {
         var metadata_info = d3.select("#sample-metadata");
         //refresh upon selection
         metadata_info.html("");
-        //entries for each key, value pair of chosen id
+        //entries for each key, value pair of chosen id //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
         Object.entries(metaResults).forEach(([keys, value]) =>{
             metadata_info.append("h6").text(`${keys.toUpperCase()} : ${value}`);
 
-        //gauge chart
+
+        //gauge chart //
         var gauge_data = [
             {
                 domain: {
@@ -85,7 +86,7 @@ function buildPlot(sampleId) {
                 type: "indicator",
                 mode: "gauge+number",
                 gauge: {
-                    text: ['0-1', '1-2', '2-3', '3-4', '4-5', '5-6', '6-7', '7-8', '8-9'],
+                    // text: ['0-1', '1-2', '2-3', '3-4', '4-5', '5-6', '6-7', '7-8', '8-9'],
                     axis: {range: [0, 9]},
                     steps: [
                         {range: [0,1], color: "#F8F3EC"},
@@ -105,7 +106,7 @@ function buildPlot(sampleId) {
             height: 500,
             margin: { t: 0, b: 0}
         };
-        Plotly.newPlot("gauge", gauge_data, gauge_layout)
+        Plotly.newPlot("gauge", gauge_data, gauge_layout);
 
     });
 });
