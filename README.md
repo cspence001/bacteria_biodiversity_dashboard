@@ -15,5 +15,6 @@
 ![alt-text](https://media.giphy.com/media/QyhWbJMRlXH4wK1ZLu/giphy.gif) 
 <h4>Full Site published at: </h4>
 https://cspence001.github.io/Sites/plotly.io/index.html 
-<h6>Languages/Components/Libraries: </6> Javascript, HTML, Bootstrap Components, plotly
+
 <h6>File Contents: </h6> The static folder contains the js folder that holds the app.js file used to render the dashboard display in the index.html file located in the main repository. The app.js file cites the samples.json in the main repository that contains the dataset in .json format.
+<h6>Languages/Components/Libraries: </h6> Javascript, HTML, Bootstrap Components, plotly
