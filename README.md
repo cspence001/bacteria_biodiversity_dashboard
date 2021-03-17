@@ -9,12 +9,12 @@
 <li>The second chart, is displays a gauge parameter of washing frequency per week of selected participant. </li>
 <li>The third chart, enables visulaization of the data in accordance with the bacteria label number on the x-axis, and the bacteria sample value mapped within it's position on the y-axis in accordance with it's marker size also determinate of the sample value. Hovering over each bubble displays the OTU ID number, followed by the bacteria sample value as well as the classification of the specific microbe.</li>
 </ul>
+![alt-text](https://github.com/cspence001/plotly-challenge/blob/main/image/dashboard.gif) 
 <h5>The Data: </h5>
 <p>The dataset was researched and logged by North Carolina State University betwwen the years 2011 and 2012. The <a href="http://robdunnlab.com/projects/belly-button-biodiversity/">study</a>, published in 2012, investigated factors of 273 participants and includes demographics for age, ethnicity, gender, location, bellybutton type (innie vs outie), and washing frequency. The taxonomic data matrix representing the participants includes 648 species of bacteria recorded of the individuals sampled within the dataset.</p>
 </br>
 ![dash_gif](https://media.giphy.com/media/QyhWbJMRlXH4wK1ZLu/giphy.gif) 
 
-![alt-text](https://github.com/cspence001/plotly-challenge/blob/main/image/dashboard.gif) 
 
 <h4>Full Site published at: </h4>
 https://cspence001.github.io/Sites/plotly.io/index.html 
