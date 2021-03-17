@@ -18,7 +18,7 @@
 <h5>Full Site published at: </h5> <h6>(currently inactive for full render)</h6>
 https://cspence001.github.io/Sites/plotly.io/index.html
 
-https://cspence001.github.io/plotly-challenge/index.html
+https://cspence001.github.io/plotly-challenge/static/js/app.js
 
 
 <h6>File Contents: </h6> The static folder contains the js folder that holds the app.js file used to render the dashboard display in the index.html file located in the main repository. The app.js file cites the samples.json in the main repository that contains the dataset in .json format.
