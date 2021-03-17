@@ -2,7 +2,7 @@
 
 <h3> Belly Button Biodiversity Dashboard </h3>
 <br>
-<p>The Belly Button Biodiversity Dashboard is an interactive dashboard that explores Belly Button Biodiversity and summarizes results of an analysis of microbes found in bellybutton of participants. Upon selection of participant, the summary results are displayed in three individual charts, and a demographic information panel in accordance with selected participant ID. </b>
+<p>The Belly Button Biodiversity Dashboard is an interactive dashboard that explores Belly Button Biodiversity and summarizes results of an analysis of microbes found in the bellybutton of participants. Upon selection of participant, the summary results are displayed in three individual charts and a demographic information panel in accordance with selected participant ID. </b>
 <h5>The Dashboard</h5>
 <ul>
  <li>The first chart sorts the Top Ten OTU's, as displayed by OTU ID number, found within the selected participants bellybutton in a bar chart. Hovering over each display bar, reveals the bacteria name, and the exact sample value of bacteria recorded. </li>
@@ -15,7 +15,7 @@
 <h5>The Data: </h5>
 <p>The dataset was researched and logged by North Carolina State University between the years 2011 and 2012. The <a href="http://robdunnlab.com/projects/belly-button-biodiversity/">study</a>, published in 2012, investigated factors of 273 participants and includes demographics for age, ethnicity, gender, location, bellybutton type (innie vs outie), and washing frequency. The taxonomic data matrix representing the participants includes 648 species of bacteria recorded of the individuals sampled within the dataset.</p>
 
-<h5>Full Site published at: </h5> <h6>(currently inactive for full render)</h6>
+<h5>Full Site published at: </h5> 
 https://cspence001.github.io/plotly-challenge
 
 
