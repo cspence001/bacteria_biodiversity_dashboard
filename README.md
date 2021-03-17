@@ -2,7 +2,7 @@
 
 <h3> Belly Button Biodiversity Dashboard </h3>
 <br>
-<p>The Belly Button Biodiversity Dashboard is an interactive dashboard that explores Belly Button Biodiversity and summarizes results of an analysis of microbes found in bellybutton of participants. Upon selection of participant, the summary results are displayed in three individual charts, and a demographic information panel in accordance with selected participant ID. </b>
+<p>The Belly Button Biodiversity Dashboard is an interactive dashboard that explores Belly Button Biodiversity and summarizes results of an analysis of microbes found in the bellybutton of participants. Upon selection of participant, the summary results are displayed in three individual charts, and a demographic information panel in accordance with selected participant ID. </b>
 <h5>The Dashboard</h5>
 <ul>
  <li>The first chart sorts the Top Ten OTU's, as displayed by OTU ID number, found within the selected participants bellybutton in a bar chart. Hovering over each display bar, reveals the bacteria name, and the exact sample value of bacteria recorded. </li>
