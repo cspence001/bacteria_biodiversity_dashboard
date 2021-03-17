@@ -11,6 +11,7 @@
 </ul>
 <h5>The Data: </h5>
 <p>The dataset was researched and logged by North Carolina State University betwwen the years 2011 and 2012. The <a href="http://robdunnlab.com/projects/belly-button-biodiversity/">study</a>, published in 2012, investigated factors of 273 participants and includes demographics for age, ethnicity, gender, location, bellybutton type (innie vs outie), and washing frequency. The taxonomic data matrix representing the participants includes 648 species of bacteria recorded of the individuals sampled within the dataset.</p>
+<br>
 ![alt-text](https://media.giphy.com/media/QyhWbJMRlXH4wK1ZLu/giphy.gif) 
 <h4>Full Site published at: </h4>
 https://cspence001.github.io/Sites/plotly.io/index.html 
