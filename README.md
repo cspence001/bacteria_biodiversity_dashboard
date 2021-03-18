@@ -7,7 +7,7 @@
 <ul>
  <li>The first chart sorts the Top Ten OTU's, as displayed by OTU ID number, found within the selected participants bellybutton in a bar chart. Hovering over each display bar, reveals the bacteria name, and the exact sample value of bacteria recorded. </li>
 <li>The second chart, displays a gauge parameter of washing frequency per week of selected participant. </li>
-<li>The third chart, enables visulaization of the data in accordance with the bacteria label number on the x-axis, and the bacteria sample value mapped within it's position on the y-axis in accordance with it's marker size also determinate of the sample value. Hovering over each bubble displays the OTU ID number, followed by the bacteria sample value as well as the classification of the specific microbe.</li>
+<li>The third chart, enables visualization of the data in accordance with the bacteria label number on the x-axis, and the bacteria sample value mapped within it's position on the y-axis in accordance with it's marker size also determinate of the sample value. Hovering over each bubble displays the OTU ID number, followed by the bacteria sample value as well as the classification of the specific microbe.</li>
 </ul></br>
 
 ![alt-text](https://github.com/cspence001/plotly-challenge/blob/main/image/dashboard.gif) 
