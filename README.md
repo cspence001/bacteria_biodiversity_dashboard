@@ -1,4 +1,4 @@
-# plotly-challenge
+# plotly-biodiversity_dashboard
 
 <h3> Belly Button Biodiversity Dashboard </h3>
 <br>
