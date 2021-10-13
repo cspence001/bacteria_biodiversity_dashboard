@@ -1,6 +1,6 @@
 //read in .json
 function buildPlot(sampleId) {
-    d3.json("samples.json").then((data) =>{
+    d3.json("../../samples.json").then((data) =>{
 
         var samples = data.samples;
         //console.log(samples); 
